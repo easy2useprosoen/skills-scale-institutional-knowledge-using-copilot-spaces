@@ -21,6 +21,7 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Assign Communications Coordinator to manage regular updates and distribution
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
@@ -38,5 +39,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> PM -> Product Lead -> Project Sponsor
+- For scope/schedule changes, engage Change Control Lead before escalation
 - For security incidents, follow the security incident runbook and notify Security on-call

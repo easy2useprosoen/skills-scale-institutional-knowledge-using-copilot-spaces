@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Quality gates defined and reviewed with Quality Assurance Lead
+- [ ] Change control process in place (see [Change Control Checklist](octoacme-change-control-checklist.md))
