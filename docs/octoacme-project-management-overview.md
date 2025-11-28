@@ -16,8 +16,12 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Project Sponsor: provides strategic direction, secures funding, and champions the project at the executive level.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: maintains process standards, leads quality gate reviews, and drives continuous improvement.
+- Change Control Lead: owns change management processes, reviews and approves scope/schedule changes.
+- Communications Coordinator: ensures effective communication across teams and stakeholders.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
